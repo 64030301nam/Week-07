@@ -58,9 +58,7 @@ namespace Week7_Lab1
 
 
 ### บันทึกผล
-
-
-
+![image](https://user-images.githubusercontent.com/115066329/233767934-b54201c1-b760-427d-b42e-2c5a9c873420.png)
 
 ---
 
@@ -107,5 +105,6 @@ static void Main(string[] args)
     // ..... เรียกใช้ให้ครบทุก method
 }
 ```
-
 ### บันทึกผล
+![image](https://user-images.githubusercontent.com/115066329/233817578-1c4140fb-a828-46d8-841c-679f468e0796.png)
+
